@@ -45,5 +45,5 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
+Ide aplikasi berbasis web app yang diperuntukkan untuk menjaga mental health, yang sudah di develop di senpro ini, yaitu WarasIn
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
